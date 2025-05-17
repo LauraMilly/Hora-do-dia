@@ -30,10 +30,6 @@ Este projeto exibe o horário atual do sistema em que está sendo executado e al
 /script.js
 /README.md
 
-yaml
-Copiar
-Editar
-
 ## Autor
 
 Laura - Projeto desenvolvido para fins educacionais.
